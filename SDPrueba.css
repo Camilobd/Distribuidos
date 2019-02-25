@@ -3,6 +3,11 @@
   background-color: EEF4F2;
 }
 
+p{
+  
+  color: white;
+}
+
 section{
   display:block;
   text-align: center;
