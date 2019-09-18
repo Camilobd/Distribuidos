@@ -3,8 +3,7 @@
   background-color: EEF4F2;
 }
 
-a{
-  
+a{  
   color: white;
 }
 
@@ -39,7 +38,7 @@ li {
   margin: 1px;
   border: 1px solid #415B76;
   align-items: center;
-  width:  30%;
+  width:  49%;
   font-family: Verdana;
   background-color:#415B76;
   display: inline-block;
